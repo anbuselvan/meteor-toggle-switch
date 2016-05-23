@@ -1,0 +1,3 @@
+[submodule "vendor/css-toggle-switch"]
+	path = vendor/css-toggle-switch
+	url = https://github.com/ghinda/css-toggle-switch.git
